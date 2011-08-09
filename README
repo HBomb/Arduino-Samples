@@ -1,0 +1,6 @@
+Contains sample code for a simple app that controls an Arduino via
+your iPhone (using OSC and Processing in between).
+
+The “libraries” directory contains the OSC library and needs to be placed 
+in your Processing development project directory. “sketch_LEDControl.pde” 
+is the Processing sketch and “sketch_LightLED.pde” is the Arduino sketch. 
